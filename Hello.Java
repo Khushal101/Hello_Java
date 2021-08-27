@@ -1,6 +1,6 @@
 Public class Hello {
 Publicstatis void main(String[] args) {
-// prints "hello, world" in terminal window.
+// prints "Hello, World" in terminal window.
 System.out.println("Hello, World");
 }
 }
